@@ -1,0 +1,1 @@
+import{P as t,C as n,a as o,T as e}from"./Text.f3aeb8cc.js";import"./vendor.358e0281.js";const a={page:t,container:n,button:o,text:e},s={},r={components:a,plugins:s};window.magicPresetComponents=r;export{r as e};

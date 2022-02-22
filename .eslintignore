@@ -1,8 +1,0 @@
-dist
-coverage
-node_modules
-dest
-
-comp-entry.ts
-config-entry.ts
-value-entry.ts
